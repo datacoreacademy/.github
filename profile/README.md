@@ -37,3 +37,4 @@
 <p align="center">
   <i>"Innovating at the intersection of data and core engineering."</i>
 </p>
+<img width="291" height="239" alt="original-ae0bdaa70812bd8e2678aa903613c141-removebg-preview" src="https://github.com/user-attachments/assets/ba58d281-54ae-4ac1-8540-42cb2f7fc040" />
