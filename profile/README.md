@@ -8,7 +8,7 @@
     <td valign="top">
       <h3>Yazılım ve Yapay Zekanın Geleceğini Şekillendiren Mühendislik</h3>
       <p><i>"Veri ve temel bilimin kesişmesinde yenilikçilik."</i></p>
-      <p>Ölçeklenebilir sistemler, otonom ajanlar ve modern geliştirici araçları oluşturmaya adanmış, topluluk odaklı bir kuruluş.</p>
+      <p>Ölçeklenebilir sistemler, otonom ajanlar ve modern geliştirici araçları oluşturmaya adanmış, topluluk odaklı bir kuruluşuz.</p>
     </td>
   </tr>
 </table>
@@ -16,9 +16,9 @@
 ---
 
 ### 🚀 Odak Alanlarımız
-* **Yazılım Mükemmelliği:** Sağlam ve ölçeklenebilir mimariler.
-* **Yapay Zeka & Otomasyon:** Otonom ajanlar ve akıllı iş akışları.
-* **Açık Kaynak:** Topluluk için yüksek kaliteli araçlar ve kütüphaneler.
+* **Yazılım Mükemmelliği:** Sağlam ve ölçeklenebilir mimariler oluşturmak.
+* **Yapay Zeka & Otomasyon:** Otonom ajanlar ve akıllı iş akışları geliştirmek.
+* **Açık Kaynak:** Topluluk için yüksek kaliteli araçlar ve kütüphaneler üretmek.
 
 ### 🛠️ Teknolojiler
 | Alan | Stack |
