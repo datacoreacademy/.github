@@ -1,8 +1,12 @@
 # 🌐 Welcome to DataCore Academy
 
 <p align="center">
-![original-ae0bdaa70812bd8e2678aa903613c141](https://github.com/user-attachments/assets/c4b22266-e9d2-44b2-a673-1cbd5713c5c2) 
- <i>"Innovating at the intersection of data and core engineering."</i>
+  ![original-ae0bdaa70812bd8e2678aa903613c141](https://github.com/user-attachments/assets/b5205a60-0245-4290-b845-64712b956d23)
+ <br>
+  <b>Engineering the Future of Software & AI</b>
+  <br>
+  <i>A community-driven organization dedicated to building scalable systems, autonomous agents, and modern developer tools.</i>
+</p>
  <br>
   <b>Engineering the Future of Software & AI</b>
   <br>
