@@ -3,8 +3,7 @@
 <table>
   <tr>
     <td width="200" align="center" valign="top">
-      <img src= <img width="291" height="239" alt="original-ae0bdaa70812bd8e2678aa903613c141-removebg-preview" src="https://github.com/user-attachments/assets/96d71265-048b-4705-8460-062982bebf97" />
-width="160">
+      <img src="https://github.com/user-attachments/assets/96d71265-048b-4705-8460-062982bebf97" width="160" alt="DataCore Logo">
     </td>
     <td valign="top">
       <h3>Yazılım ve Yapay Zekanın Geleceğini Şekillendiren Mühendislik</h3>
