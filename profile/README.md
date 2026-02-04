@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="200" align="center" valign="top">
-      <img src="https://github.com/user-attachments/assets/96d71265-048b-4705-8460-062982bebf97" width="160">
+      <img src="https://github.com/user-attachments/assets/96d71265-048b-4705-8460-062982bebf97" width="160" alt="DataCore Logo">
     </td>
     <td valign="top">
       <h3>Yazılım ve Yapay Zekanın Geleceğini Şekillendiren Mühendislik</h3>
@@ -17,8 +17,8 @@
 
 ### 🚀 Odak Alanlarımız
 * **Yazılım Mükemmelliği:** Sağlam ve ölçeklenebilir mimariler oluşturmak.
-* **Yapay Zeka & Otomasyon:** Otonom ajanlar ve akıllı iş akışları geliştirmek.
-* **Açık Kaynak:** Topluluk için yüksek kaliteli araçlar ve kütüphaneler üretmek.
+* **Yapay Zeka & Otomasyon:** Otonom ajanlar ve akıllı iş akışları.
+* **Açık Kaynak:** Topluluk için yüksek kaliteli araçlar ve kütüphaneler.
 
 ### 🛠️ Teknolojiler
 | Alan | Stack |
