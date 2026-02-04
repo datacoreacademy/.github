@@ -2,18 +2,6 @@
 
 <p align="center">
   <img src="https://datacore.academy/logo.png" alt="DataCore Logo" width="180">
-</p>
-
-### Building AI Projects for Tomorrow
-A community-driven club developing **intelligent systems**, **agents**, and **AI tools** for the new era of computing.
-
----
-### 🔗 Quick Links
-| [Website](https://datacore.academy) | [GitHub Projects](#) | [Contact Us](mailto:hello@datacore.academy) |
-# 🌐 Welcome to DataCore Academy
-
-<p align="center">
-  <img src="https://datacore.academy/logo.png" alt="DataCore Logo" width="180">
   <br>
   <b>Engineering the Future of Software & AI</b>
   <br>
