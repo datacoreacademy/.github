@@ -1,7 +1,7 @@
 # 🌐 Welcome to DataCore Academy
 
 <p align="center">
-  ![original-ae0bdaa70812bd8e2678aa903613c141](https://github.com/user-attachments/assets/b5205a60-0245-4290-b845-64712b956d23)
+ <i>"Innovating at the intersection of data and core engineering."</i>
  <br>
   <b>Engineering the Future of Software & AI</b>
   <br>
